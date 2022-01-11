@@ -1,0 +1,98 @@
+h3 {
+	color: #f77a00
+}
+
+.row {
+	
+}
+
+.navbar-toggle {
+	background: #fff;
+	color: #000;
+}
+.branco{color:#fff!important;}
+.navbar-nav li a:hover {
+	color: #0ABBD2;
+}
+
+ul.navbar-nav li a {
+	margin: 4px 3px 0 3px;
+	color: #fff;
+	border-radius: 6px;
+	font-weight: bold;
+}
+.container{    height: 100%;}
+ul.menu_lateral li a {
+	border-left: 5px solid #0ABBD2;
+	margin-bottom: 10px;
+	background:#ffb864;
+	color: #FFF;
+	padding: 5px 5px 5px 20px;
+	font-size: 16px;
+	display: block;
+	width: 80%;
+	text-decoration: none;
+	line-height: 40px;
+	font-weight: bold;
+}
+
+ul.menu_lateral li a:hover {
+	background: #fdfac3;
+	color: #555;
+}
+body{background:url('../img/bg.gif');}
+.topo{background:dimgray !important;}
+.container{background:#fff; border-radius: 0 0 10px 10px;}
+#topo2 {
+	background-color: #3b8054;
+	background-image: -ms-radial-gradient(center, circle farthest-corner, #8DDB1D 20%, #77C01A
+		80%, #67AD17 100%);
+	background-image: -moz-radial-gradient(center, circle farthest-corner, #8DDB1D 20%,
+		#77C01A 80%, #67AD17 100%);
+	background-image: -o-radial-gradient(center, circle farthest-corner, #8DDB1D 20%, #77C01A
+		80%, #67AD17 100%);
+	background-image: -webkit-gradient(radial, center center, 0, center center, 497,
+		color-stop(0.2, #67AD17), color-stop(0.8, #77C01A),
+		color-stop(1, #67AD17) );
+	background-image: -webkit-radial-gradient(center, circle farthest-corner, #8DDB1D 20%,
+		#77C01A 80%, #67AD17 100%);
+	background-image: radial-gradient(circle farthest-corner at center, #8DDB1D 20%, #77C01A
+		80%, #67AD17 100%);
+	box-shadow: 1px 1px 10px gray;
+	position: relative;
+	color: #fff;
+}
+.rodape{    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.logo {
+	width: 100%;
+	margin: 20px 0;
+}
+
+#meio {
+
+	##background: url('../img/blue-bg.gif') repeat-x;
+height: 100%;
+}
+
+#topo {
+	border-top: 3px solid #000;
+}
+
+.navbar-nav {
+	margin-top: 35px;
+}
+
+.telefones {
+	text-align: center;
+	text-shadow: 1px 1px 3px #999;
+}
+.contato {
+    margin: 10px 0;
+}
+.meio .container .row{ padding-bottom:50px;}
+ @CHARSET "UTF-8";
